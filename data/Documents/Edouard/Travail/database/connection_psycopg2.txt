@@ -1,0 +1,17 @@
+import psycopg2
+
+conn=psycopg2.connect("dbname=postgres user=reporting password=Crpn2014 host=localhost")
+
+cur=conn.cursor()
+
+cur.execute("""SELECT * FROM PX_APOLLO WHERE DATE_VL='26/10/2016';""")
+#cur.execute("""SELECT PX_APOLLO.DATE_VL, TABLE_RISQUE.NAME FROM PX_APOLLO, TABLE_RISQUE TABLE_RISQUE WHERE TABLE_RISQUE.ISIN = PX_APOLLO.ISIN AND ((PX_APOLLO.DATE_VL={d '2017-10-26'})))""")
+
+
+
+rows=cur.fetchall()
+
+print("\nShow me the results:\n")
+for row in rows:
+    print("  ",row[0])
+

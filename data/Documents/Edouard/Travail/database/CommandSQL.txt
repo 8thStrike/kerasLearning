@@ -1,0 +1,12 @@
+#Creation de table :
+
+CREATE TABLE reporting
+(
+    id SERIAL NOT NULL, 
+    isin VARCHAR(12) NOT NULL,
+)
+
+
+
+#version michael
+CREATE TABLE distributors ( did integer PRIMARY KEY DEFAULT nextval('serial'), name varchar(40) NOT NULL CHECK (name <> '') );

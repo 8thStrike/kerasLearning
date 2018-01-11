@@ -19,6 +19,7 @@ import argparse
 from keras.applications import inception_v3
 from keras import backend as K
 
+#parser : permettant de recuperer les adresses d'input et d'ouput
 parser = argparse.ArgumentParser(description='Deep Dreams with Keras.')
 parser.add_argument('base_image_path', metavar='base', type=str,
                     help='Path to the image to transform.')
