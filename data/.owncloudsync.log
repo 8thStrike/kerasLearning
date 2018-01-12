@@ -201,3 +201,237 @@
 #=#=#=#=# Propagation starts 2018-01-11T16:33:52 (last step: 217 msec, total: 217 msec)
 15:34:09||Documents/Edouard/Travail/database/num_categ_issuer.csv|INST_SYNC|Down|1515684773|09577c09ac63576bbd060c30db186a63|44|00031223oc3cyazo6xmf|4||0|342|1515682361|||INST_NONE|
 #=#=#=# Syncrun finished 2018-01-11T16:33:52 (last step: 127 msec, total: 344 msec)
+#=#=#=# Syncrun started 2018-01-12T10:06:17
+#=#=#=#=# Propagation starts 2018-01-12T10:06:17 (last step: 388 msec, total: 388 msec)
+#=#=#=# Syncrun finished 2018-01-12T10:06:18 (last step: 703 msec, total: 1091 msec)
+#=#=#=# Syncrun started 2018-01-12T10:15:43
+#=#=#=#=# Propagation starts 2018-01-12T10:15:43 (last step: 261 msec, total: 261 msec)
+09:15:58||Documents/Edouard/Travail/database/data_insert_into.xlsx|INST_SYNC|Down|1515748528|1aa8983da7dc7c98fcdd6865fa95012a|12794|00029734oc3cyazo6xmf|4||0|11430|1515682917|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T10:15:43 (last step: 161 msec, total: 422 msec)
+#=#=#=# Syncrun started 2018-01-12T10:17:43
+#=#=#=#=# Propagation starts 2018-01-12T10:17:43 (last step: 273 msec, total: 273 msec)
+09:17:58||Documents/Edouard/Travail/database/data_insert_into.xlsx|INST_SYNC|Down|1515748636|badd37e3d3430bcfc34637c1ed2fe4a2|13279|00029734oc3cyazo6xmf|4||0|12794|1515748528|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T10:17:43 (last step: 205 msec, total: 479 msec)
+#=#=#=# Syncrun started 2018-01-12T10:19:13
+#=#=#=#=# Propagation starts 2018-01-12T10:19:13 (last step: 253 msec, total: 253 msec)
+09:19:28||Documents/Edouard/Travail/database/data_insert_into.xlsx|INST_SYNC|Down|1515748745|2300b8cee3a6469ad6a29fbe74e5e804|12747|00029734oc3cyazo6xmf|4||0|13279|1515748636|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T10:19:13 (last step: 184 msec, total: 437 msec)
+#=#=#=# Syncrun started 2018-01-12T10:20:43
+#=#=#=#=# Propagation starts 2018-01-12T10:20:43 (last step: 245 msec, total: 245 msec)
+09:20:58||Documents/Edouard/Travail/database/num_categorie_3 - Copie.csv|INST_NEW|Down|1515682361|4d3e20c25aaa5551204043d2efb26b7b|342|00031229oc3cyazo6xmf|4||0|0|0|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T10:20:43 (last step: 243 msec, total: 488 msec)
+#=#=#=# Syncrun started 2018-01-12T10:21:43
+#=#=#=#=# Propagation starts 2018-01-12T10:21:43 (last step: 345 msec, total: 345 msec)
+||Documents/Edouard/Travail/database/num_sector.csv -> Documents/Edouard/Travail/database/num_sector.csv|INST_RENAME|Down|1515682361|4d3e20c25aaa5551204043d2efb26b7b|342|00031229oc3cyazo6xmf|4||0|0|0|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T10:21:43 (last step: 124 msec, total: 469 msec)
+#=#=#=# Syncrun started 2018-01-12T11:20:13
+#=#=#=#=# Propagation starts 2018-01-12T11:20:13 (last step: 194 msec, total: 194 msec)
+10:20:28||Documents/Edouard/Travail/database/num_sector.csv|INST_SYNC|Down|1515752398|8a65e6804648335e0769147f1bb57d8f|1023|00031229oc3cyazo6xmf|4||0|342|1515682361|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T11:20:13 (last step: 129 msec, total: 323 msec)
+#=#=#=# Syncrun started 2018-01-12T11:21:13
+#=#=#=#=# Propagation starts 2018-01-12T11:21:13 (last step: 215 msec, total: 215 msec)
+10:21:28||Documents/Edouard/Travail/database/num_pays_risque.csv|INST_NEW|Down|1515752398|7a4ece45ea973c162a6762f1f20d1313|1023|00031232oc3cyazo6xmf|4||0|0|0|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T11:21:14 (last step: 1292 msec, total: 1508 msec)
+#=#=#=# Syncrun started 2018-01-12T11:22:13
+#=#=#=#=# Propagation starts 2018-01-12T11:22:13 (last step: 193 msec, total: 193 msec)
+10:22:28||Documents/Edouard/Travail/database/num_pays_risque.csv|INST_SYNC|Down|1515752527|30affa94a62ad7eae0a3b1e5dbb11928|209|00031232oc3cyazo6xmf|4||0|1023|1515752398|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T11:22:13 (last step: 133 msec, total: 327 msec)
+#=#=#=# Syncrun started 2018-01-12T11:51:43
+#=#=#=#=# Propagation starts 2018-01-12T11:51:43 (last step: 250 msec, total: 250 msec)
+10:51:58||Documents/Edouard/Travail/database/ref_issuer.csv|INST_NEW|Down|1515754289|af5c4988c08db0b80d42551fb517d82e|11119|00031234oc3cyazo6xmf|4||0|0|0|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T11:51:43 (last step: 141 msec, total: 391 msec)
+#=#=#=# Syncrun started 2018-01-12T11:55:13
+#=#=#=#=# Propagation starts 2018-01-12T11:55:13 (last step: 264 msec, total: 264 msec)
+10:55:28||Documents/Edouard/Travail/database/ref_issuer.csv|INST_SYNC|Down|1515754508|eb826727b32a5a2a720a6be1079f8e82|11119|00031234oc3cyazo6xmf|4||0|11119|1515754289|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T11:55:13 (last step: 137 msec, total: 402 msec)
+#=#=#=# Syncrun started 2018-01-12T11:56:43
+#=#=#=#=# Propagation starts 2018-01-12T11:56:43 (last step: 201 msec, total: 201 msec)
+10:56:58||Documents/Edouard/Travail/database/ref_issuer.csv|INST_SYNC|Down|1515754593|962035a8df4690667aa7465c1c83a57b|13119|00031234oc3cyazo6xmf|4||0|11119|1515754508|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T11:56:43 (last step: 131 msec, total: 332 msec)
+#=#=#=# Syncrun started 2018-01-12T11:59:13
+#=#=#=#=# Propagation starts 2018-01-12T11:59:13 (last step: 195 msec, total: 195 msec)
+10:59:28||Documents/Edouard/Travail/database/data_insert_into.xlsx|INST_SYNC|Down|1515754731|0fe039c08faa664969a09be67c6adc7b|198464|00029734oc3cyazo6xmf|4||0|12747|1515748745|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T11:59:13 (last step: 186 msec, total: 381 msec)
+#=#=#=# Syncrun started 2018-01-12T12:01:13
+#=#=#=#=# Propagation starts 2018-01-12T12:01:13 (last step: 203 msec, total: 203 msec)
+11:01:28||Documents/Edouard/Travail/database/ref_issuer.csv|INST_SYNC|Down|1515754865|0629c3ecb83c49fe7824665f7a2eafc3|13635|00031234oc3cyazo6xmf|4||0|13119|1515754593|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T12:01:13 (last step: 168 msec, total: 372 msec)
+#=#=#=# Syncrun started 2018-01-12T13:25:13
+#=#=#=#=# Propagation starts 2018-01-12T13:25:13 (last step: 195 msec, total: 195 msec)
+12:25:28||Documents/Edouard/Travail/database/num_categ_issuer.csv|INST_SYNC|Down|1515759899|1ff71ad3a29153b22e03516334857632|56|00031223oc3cyazo6xmf|4||0|44|1515684773|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T13:25:16 (last step: 3005 msec, total: 3200 msec)
+#=#=#=# Syncrun started 2018-01-12T13:54:13
+#=#=#=#=# Propagation starts 2018-01-12T13:54:13 (last step: 207 msec, total: 207 msec)
+12:54:28||Documents/Edouard/Travail/database/num_group.csv|INST_NEW|Down|1515752527|db818f0579da31bd46427e2c7ac88adf|209|00031240oc3cyazo6xmf|4||0|0|0|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T13:54:13 (last step: 134 msec, total: 341 msec)
+#=#=#=# Syncrun started 2018-01-12T13:55:13
+#=#=#=#=# Propagation starts 2018-01-12T13:55:13 (last step: 208 msec, total: 208 msec)
+12:55:28||Documents/Edouard/Travail/database/num_group.csv|INST_SYNC|Down|1515761683|a16aec62fdb707632d53aa183d2eb035|9226|00031240oc3cyazo6xmf|4||0|209|1515752527|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T13:55:13 (last step: 129 msec, total: 337 msec)
+#=#=#=# Syncrun started 2018-01-12T14:59:13
+#=#=#=#=# Propagation starts 2018-01-12T14:59:13 (last step: 200 msec, total: 200 msec)
+13:59:28||Documents/Edouard/Travail/database/num_group.csv|INST_SYNC|Down|1515765529|176120cffb996c875d2db4a12be6c3ca|8620|00031240oc3cyazo6xmf|4||0|9226|1515761683|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T14:59:13 (last step: 149 msec, total: 349 msec)
+#=#=#=# Syncrun started 2018-01-12T15:10:13
+#=#=#=#=# Propagation starts 2018-01-12T15:10:13 (last step: 195 msec, total: 195 msec)
+14:10:28||Documents/Edouard/Travail/database/num_group.csv|INST_SYNC|Down|1515766189|4400f3aa28501e735b0b4d6a32beff79|10070|00031240oc3cyazo6xmf|4||0|8620|1515765529|||INST_NONE|
+14:10:28||Documents/Edouard/Travail/database/ref_issuer.csv|INST_SYNC|Down|1515766206|8db1ed765b4d9adf495d952be0772e1f|25062|00031234oc3cyazo6xmf|4||0|13635|1515754865|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T15:10:13 (last step: 202 msec, total: 397 msec)
+#=#=#=# Syncrun started 2018-01-12T15:14:43
+#=#=#=#=# Propagation starts 2018-01-12T15:14:43 (last step: 247 msec, total: 247 msec)
+14:14:58||Documents/Edouard/Travail/database/num_group.csv|INST_SYNC|Down|1515766457|b53310e907f38e7eaac694583e38fea8|10118|00031240oc3cyazo6xmf|4||0|10070|1515766189|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T15:14:43 (last step: 143 msec, total: 390 msec)
+#=#=#=# Syncrun started 2018-01-12T15:18:13
+#=#=#=#=# Propagation starts 2018-01-12T15:18:13 (last step: 194 msec, total: 194 msec)
+14:18:28||Documents/Edouard/Travail/database/num_group.csv|INST_SYNC|Down|1515766688|48bfd188b9ac607b6dfd2ddaad96fb26|10136|00031240oc3cyazo6xmf|4||0|10118|1515766457|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T15:18:13 (last step: 127 msec, total: 322 msec)
+#=#=#=# Syncrun started 2018-01-12T15:22:13
+#=#=#=#=# Propagation starts 2018-01-12T15:22:13 (last step: 209 msec, total: 209 msec)
+14:22:28||Documents/Edouard/Travail/database/num_group.csv|INST_SYNC|Down|1515766900|64e4f5a490d246a6ed7feeb5f9c318b4|10162|00031240oc3cyazo6xmf|4||0|10136|1515766688|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T15:22:13 (last step: 176 msec, total: 386 msec)
+#=#=#=# Syncrun started 2018-01-12T15:23:43
+#=#=#=#=# Propagation starts 2018-01-12T15:23:43 (last step: 197 msec, total: 197 msec)
+14:23:58||Documents/Edouard/Travail/database/ref_issuer.csv|INST_SYNC|Down|1515767020|68ad242d3de768b3184807423d8a36c0|25125|00031234oc3cyazo6xmf|4||0|25062|1515766206|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T15:23:43 (last step: 128 msec, total: 325 msec)
+#=#=#=# Syncrun started 2018-01-12T15:25:13
+#=#=#=#=# Propagation starts 2018-01-12T15:25:13 (last step: 195 msec, total: 195 msec)
+14:25:28||Documents/Edouard/Travail/database/num_group.csv|INST_SYNC|Down|1515767092|0ff6c1631bf546c6359c03ba3107b075|10199|00031240oc3cyazo6xmf|4||0|10162|1515766900|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T15:25:13 (last step: 121 msec, total: 316 msec)
+#=#=#=# Syncrun started 2018-01-12T15:26:43
+#=#=#=#=# Propagation starts 2018-01-12T15:26:43 (last step: 190 msec, total: 190 msec)
+14:26:58||Documents/Edouard/Travail/database/num_group.csv|INST_SYNC|Down|1515767174|378b577fe1ab692b79e76f45a98f87aa|10231|00031240oc3cyazo6xmf|4||0|10199|1515767092|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T15:26:43 (last step: 120 msec, total: 310 msec)
+#=#=#=# Syncrun started 2018-01-12T15:28:43
+#=#=#=#=# Propagation starts 2018-01-12T15:28:43 (last step: 193 msec, total: 193 msec)
+14:28:58||Documents/Edouard/Travail/database/num_group.csv|INST_SYNC|Down|1515767319|2b541398268a2f769e301894d6662c49|10272|00031240oc3cyazo6xmf|4||0|10231|1515767174|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T15:28:43 (last step: 114 msec, total: 308 msec)
+#=#=#=# Syncrun started 2018-01-12T15:30:43
+#=#=#=#=# Propagation starts 2018-01-12T15:30:43 (last step: 189 msec, total: 189 msec)
+14:30:58||Documents/Edouard/Travail/database/num_group.csv|INST_SYNC|Down|1515767424|40e0956102f2961a781082a633b26dc8|10303|00031240oc3cyazo6xmf|4||0|10272|1515767319|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T15:30:44 (last step: 1174 msec, total: 1363 msec)
+#=#=#=# Syncrun started 2018-01-12T15:31:43
+#=#=#=#=# Propagation starts 2018-01-12T15:31:43 (last step: 199 msec, total: 199 msec)
+14:31:58||Documents/Edouard/Travail/database/num_group.csv|INST_SYNC|Down|1515767491|229acc52ee9fbe89fe50ecac0340673c|10334|00031240oc3cyazo6xmf|4||0|10303|1515767424|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T15:31:43 (last step: 126 msec, total: 325 msec)
+#=#=#=# Syncrun started 2018-01-12T15:32:43
+#=#=#=#=# Propagation starts 2018-01-12T15:32:43 (last step: 192 msec, total: 192 msec)
+14:32:58||Documents/Edouard/Travail/database/num_group.csv|INST_SYNC|Down|1515767520|d87469262dbfb479ef54e94b98d00bb5|10334|00031240oc3cyazo6xmf|4||0|10334|1515767491|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T15:32:43 (last step: 129 msec, total: 322 msec)
+#=#=#=# Syncrun started 2018-01-12T15:33:43
+#=#=#=#=# Propagation starts 2018-01-12T15:33:43 (last step: 192 msec, total: 192 msec)
+14:33:58||Documents/Edouard/Travail/database/num_group.csv|INST_SYNC|Down|1515767594|b359cf591ee27a0d60cada2c2d84ebe0|10334|00031240oc3cyazo6xmf|4||0|10334|1515767520|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T15:33:43 (last step: 145 msec, total: 338 msec)
+#=#=#=# Syncrun started 2018-01-12T15:34:43
+#=#=#=#=# Propagation starts 2018-01-12T15:34:43 (last step: 194 msec, total: 194 msec)
+14:34:58||Documents/Edouard/Travail/database/num_group.csv|INST_SYNC|Down|1515767623|9d2dd871350fca72fa0fafe48a67018f|10352|00031240oc3cyazo6xmf|4||0|10334|1515767594|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T15:34:43 (last step: 135 msec, total: 329 msec)
+#=#=#=# Syncrun started 2018-01-12T15:41:13
+#=#=#=#=# Propagation starts 2018-01-12T15:41:13 (last step: 249 msec, total: 249 msec)
+14:41:28||Documents/Edouard/Travail/database/ref_issuer.xlsx|INST_NEW|Down|1515768070|ad36453f486e2170a9bb0cb8b2fda341|137473|00031259oc3cyazo6xmf|4||0|0|0|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T15:41:13 (last step: 162 msec, total: 412 msec)
+#=#=#=# Syncrun started 2018-01-12T15:42:13
+#=#=#=#=# Propagation starts 2018-01-12T15:42:13 (last step: 242 msec, total: 242 msec)
+14:42:28||Documents/Edouard/Travail/database/num_group.csv|INST_SYNC|Down|1515768110|1399f2dd1be7e0e2fed679210a535adf|8961|00031240oc3cyazo6xmf|4||0|10352|1515767623|||INST_NONE|
+14:42:28||Documents/Edouard/Travail/database/ref_issuer.csv|INST_SYNC|Down|1515768118|db9fe49d88ef0866e8c255312b39ea80|17282|00031234oc3cyazo6xmf|4||0|25125|1515767020|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T15:42:13 (last step: 224 msec, total: 466 msec)
+#=#=#=# Syncrun started 2018-01-12T15:44:43
+#=#=#=#=# Propagation starts 2018-01-12T15:44:43 (last step: 253 msec, total: 253 msec)
+14:44:58||Documents/Edouard/Travail/database/num_pays_risque.csv|INST_SYNC|Down|1515768272|8fff6273c238786c833ae22b1898ab2a|209|00031232oc3cyazo6xmf|4||0|209|1515752527|||INST_NONE|
+14:44:58||Documents/Edouard/Travail/database/num_sector.csv|INST_SYNC|Down|1515768263|17b1ab17705b4c08e8dc3625980277fe|1023|00031229oc3cyazo6xmf|4||0|1023|1515752398|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T15:44:43 (last step: 209 msec, total: 463 msec)
+#=#=#=# Syncrun started 2018-01-12T15:45:43
+#=#=#=#=# Propagation starts 2018-01-12T15:45:43 (last step: 198 msec, total: 198 msec)
+14:45:58||Documents/Edouard/Travail/database/num_categ_issuer.csv|INST_SYNC|Down|1515768284|7d388857907f3e8be0f49c9839028743|56|00031223oc3cyazo6xmf|4||0|56|1515759899|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T15:45:43 (last step: 118 msec, total: 317 msec)
+#=#=#=# Syncrun started 2018-01-12T15:50:13
+#=#=#=#=# Propagation starts 2018-01-12T15:50:13 (last step: 191 msec, total: 191 msec)
+14:50:28||Documents/Edouard/Travail/database/data_insert_into.xlsx|INST_SYNC|Down|1515768597|5d54152b69c039a9b1a6d7e607fad51e|214584|00029734oc3cyazo6xmf|4||0|198464|1515754731|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T15:50:13 (last step: 178 msec, total: 369 msec)
+#=#=#=# Syncrun started 2018-01-12T15:51:43
+#=#=#=#=# Propagation starts 2018-01-12T15:51:43 (last step: 209 msec, total: 209 msec)
+14:51:58||Documents/Edouard/Travail/database/data_insert_into.xlsx|INST_SYNC|Down|1515768692|8b85559934f069a43ecc46f182aab7cd|214579|00029734oc3cyazo6xmf|4||0|214584|1515768597|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T15:51:43 (last step: 192 msec, total: 402 msec)
+#=#=#=# Syncrun started 2018-01-12T16:02:43
+#=#=#=#=# Propagation starts 2018-01-12T16:02:43 (last step: 247 msec, total: 247 msec)
+15:02:58||Documents/Edouard/Travail/database/data_insert_into.xlsx|INST_SYNC|Down|1515769332|6d3c7c2d278df3bb53dbd9a7b11fb5e6|214712|00029734oc3cyazo6xmf|4||0|214579|1515768692|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T16:02:43 (last step: 188 msec, total: 435 msec)
+#=#=#=# Syncrun started 2018-01-12T16:05:43
+#=#=#=#=# Propagation starts 2018-01-12T16:05:43 (last step: 247 msec, total: 247 msec)
+15:05:58||Documents/Edouard/Travail/database/data_insert_into.xlsx|INST_SYNC|Down|1515769534|f2eb1048f039fd605136872b32c2bff9|215268|00029734oc3cyazo6xmf|4||0|214712|1515769332|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T16:05:43 (last step: 172 msec, total: 419 msec)
+#=#=#=# Syncrun started 2018-01-12T16:07:13
+#=#=#=#=# Propagation starts 2018-01-12T16:07:13 (last step: 253 msec, total: 253 msec)
+15:07:28||Documents/Edouard/Travail/database/data_insert_into.xlsx|INST_SYNC|Down|1515769627|fc0c3e716a8ec01e8b839082ffece26c|217734|00029734oc3cyazo6xmf|4||0|215268|1515769534|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T16:07:13 (last step: 200 msec, total: 454 msec)
+#=#=#=# Syncrun started 2018-01-12T16:08:13
+#=#=#=#=# Propagation starts 2018-01-12T16:08:13 (last step: 246 msec, total: 246 msec)
+15:08:28||Documents/Edouard/Travail/database/data_insert_into.xlsx|INST_SYNC|Down|1515769658|a36ba7a418136e8849b4713ba7b016af|217731|00029734oc3cyazo6xmf|4||0|217734|1515769627|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T16:08:13 (last step: 216 msec, total: 462 msec)
+#=#=#=# Syncrun started 2018-01-12T16:10:13
+#=#=#=#=# Propagation starts 2018-01-12T16:10:13 (last step: 273 msec, total: 273 msec)
+||Documents/Edouard/Travail/database/data_insert_into Feuille de Route.xlsx -> Documents/Edouard/Travail/database/data_insert_into Feuille de Route.xlsx|INST_RENAME|Down|1515769658|a36ba7a418136e8849b4713ba7b016af|217731|00029734oc3cyazo6xmf|4||0|0|0|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T16:10:13 (last step: 15 msec, total: 289 msec)
+#=#=#=# Syncrun started 2018-01-12T16:22:13
+#=#=#=#=# Propagation starts 2018-01-12T16:22:13 (last step: 207 msec, total: 207 msec)
+15:22:28||Documents/Edouard/Travail/database/ref_global.csv|INST_SYNC|Down|1515770504|da28e9da7ca23b508e3bff603b2e705f|170104|00031194oc3cyazo6xmf|4||0|50024|1515673824|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T16:22:13 (last step: 165 msec, total: 372 msec)
+#=#=#=# Syncrun started 2018-01-12T16:26:43
+#=#=#=#=# Propagation starts 2018-01-12T16:26:43 (last step: 199 msec, total: 199 msec)
+15:26:58||Documents/Edouard/Travail/database/ref_global.csv|INST_SYNC|Down|1515770785|7d1173a50e8269f2d7122ca5b7c4d3ef|171361|00031194oc3cyazo6xmf|4||0|170104|1515770504|||INST_NONE|
+15:26:58||Documents/Edouard/Travail/database/ref_global_maker.xlsx|INST_NEW|Down|1515770799|32377e23597ac148db38acdbd13ba7c1|383295|00031279oc3cyazo6xmf|4||0|0|0|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T16:26:44 (last step: 615 msec, total: 814 msec)
+#=#=#=# Syncrun started 2018-01-12T16:27:43
+#=#=#=#=# Propagation starts 2018-01-12T16:27:43 (last step: 238 msec, total: 238 msec)
+||Documents/Edouard/Travail/database/ref_issuer_maker.xlsx -> Documents/Edouard/Travail/database/ref_issuer_maker.xlsx|INST_RENAME|Down|1515768070|ad36453f486e2170a9bb0cb8b2fda341|137473|00031259oc3cyazo6xmf|4||0|0|0|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T16:27:43 (last step: 8 msec, total: 246 msec)
+#=#=#=# Syncrun started 2018-01-12T16:28:43
+#=#=#=#=# Propagation starts 2018-01-12T16:28:43 (last step: 305 msec, total: 305 msec)
+15:28:58||Documents/Edouard/Travail/database/num_niv_seniorite.csv|INST_NEW|Down|1515768110|4713473fb7f5b38b1e089effea7e464e|8961|00031280oc3cyazo6xmf|4||0|0|0|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T16:28:43 (last step: 138 msec, total: 443 msec)
+#=#=#=# Syncrun started 2018-01-12T16:30:43
+#=#=#=#=# Propagation starts 2018-01-12T16:30:43 (last step: 287 msec, total: 287 msec)
+15:30:58||Documents/Edouard/Travail/database/data_insert_into Feuille de Route.xlsx|INST_SYNC|Down|1515771016|d0c8024babc4ea7578af77eda78d09d5|217760|00029734oc3cyazo6xmf|4||0|217731|1515769658|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T16:30:43 (last step: 181 msec, total: 468 msec)
+#=#=#=# Syncrun started 2018-01-12T16:55:43
+#=#=#=#=# Propagation starts 2018-01-12T16:55:43 (last step: 248 msec, total: 248 msec)
+15:55:58||Documents/Edouard/Travail/database/num_niv_seniorite.csv|INST_SYNC|Down|1515772512|0911e1de1331b0445ac585f21c4f9b3a|66|00031280oc3cyazo6xmf|4||0|8961|1515768110|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T16:55:43 (last step: 142 msec, total: 390 msec)
+#=#=#=# Syncrun started 2018-01-12T16:58:43
+#=#=#=#=# Propagation starts 2018-01-12T16:58:43 (last step: 247 msec, total: 247 msec)
+15:58:58||Documents/Edouard/Travail/database/data_insert_into Feuille de Route.xlsx|INST_SYNC|Down|1515772698|cfeb44fb504b30caf78c0155b5b77961|218227|00029734oc3cyazo6xmf|4||0|217760|1515771016|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T16:58:43 (last step: 196 msec, total: 443 msec)
+#=#=#=# Syncrun started 2018-01-12T17:05:13
+#=#=#=#=# Propagation starts 2018-01-12T17:05:13 (last step: 245 msec, total: 245 msec)
+16:05:28||Documents/Edouard/Travail/database/num_categorie_2.csv|INST_SYNC|Down|1515773102|0fab53bd6a1db16b2520bf13c6afc77c|245|00031216oc3cyazo6xmf|4||0|245|1515682012|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T17:05:13 (last step: 146 msec, total: 392 msec)
+#=#=#=# Syncrun started 2018-01-12T17:06:43
+#=#=#=#=# Propagation starts 2018-01-12T17:06:43 (last step: 260 msec, total: 260 msec)
+16:06:58||Documents/Edouard/Travail/database/ref_global.csv|INST_SYNC|Down|1515773190|0813604da331dbb48ed0fb97d6568e20|177606|00031194oc3cyazo6xmf|4||0|171361|1515770785|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T17:06:43 (last step: 205 msec, total: 465 msec)
+#=#=#=# Syncrun started 2018-01-12T17:07:43
+#=#=#=#=# Propagation starts 2018-01-12T17:07:43 (last step: 255 msec, total: 255 msec)
+16:07:58||Documents/Edouard/Travail/database/num_categorie_1.csv|INST_SYNC|Down|1515773203|49aed0f098b882bc9810c4ac6c95a834|101|00031209oc3cyazo6xmf|4||0|101|1515681406|||INST_NONE|
+16:07:58||Documents/Edouard/Travail/database/num_categorie_3.csv|INST_SYNC|Down|1515773211|1a87651d3abfafb2aa5f7087a21a1dd1|366|00031219oc3cyazo6xmf|4||0|342|1515682361|||INST_NONE|
+16:07:58||Documents/Edouard/Travail/database/ref_global.csv|INST_SYNC|Down|1515773242|2e49a77d49384d62a44fea1721e0b31c|68881|00031194oc3cyazo6xmf|4||0|177606|1515773190|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T17:07:43 (last step: 360 msec, total: 615 msec)
+#=#=#=# Syncrun started 2018-01-12T17:14:13
+#=#=#=#=# Propagation starts 2018-01-12T17:14:13 (last step: 253 msec, total: 253 msec)
+16:14:28||Documents/Edouard/Travail/database/ref_global.csv|INST_SYNC|Down|1515773648|272ec838f3d0283416084cd4000d0cd2|68805|00031194oc3cyazo6xmf|4||0|68881|1515773242|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T17:14:13 (last step: 170 msec, total: 424 msec)
+#=#=#=# Syncrun started 2018-01-12T17:16:43
+#=#=#=#=# Propagation starts 2018-01-12T17:16:43 (last step: 249 msec, total: 249 msec)
+16:16:58||Documents/Edouard/Travail/database/ref_issuer.csv|INST_SYNC|Down|1515773781|25ac313b2ee039cbb3643e095e2123ae|16338|00031234oc3cyazo6xmf|4||0|17282|1515768118|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T17:16:43 (last step: 126 msec, total: 375 msec)
+#=#=#=# Syncrun started 2018-01-12T17:17:43
+#=#=#=#=# Propagation starts 2018-01-12T17:17:43 (last step: 252 msec, total: 252 msec)
+16:17:58||Documents/Edouard/Travail/database/ref_issuer.csv|INST_SYNC|Down|1515773856|f584d240c30c875f76ae47117a775b7b|16338|00031234oc3cyazo6xmf|4||0|16338|1515773781|||INST_NONE|
+16:17:58||Documents/Edouard/Travail/database/ref_global.csv|INST_SYNC|Down|1515773824|e4031ac67d7b23d0b2456d06876b36ec|69231|00031194oc3cyazo6xmf|4||0|68805|1515773648|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T17:17:46 (last step: 2622 msec, total: 2874 msec)
+#=#=#=# Syncrun started 2018-01-12T17:18:43
+#=#=#=#=# Propagation starts 2018-01-12T17:18:43 (last step: 255 msec, total: 255 msec)
+16:18:58||Documents/Edouard/Travail/database/ref_issuer.csv|INST_SYNC|Down|1515773914|771ee96832fb8796d766d6a4f650f240|16270|00031234oc3cyazo6xmf|4||0|16338|1515773856|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T17:18:43 (last step: 120 msec, total: 376 msec)
+#=#=#=# Syncrun started 2018-01-12T17:20:13
+#=#=#=#=# Propagation starts 2018-01-12T17:20:13 (last step: 271 msec, total: 271 msec)
+16:20:28||Documents/Edouard/Travail/database/ref_issuer.csv|INST_SYNC|Down|1515774001|d71a092abd80421255320812e5f6405a|16270|00031234oc3cyazo6xmf|4||0|16270|1515773914|||INST_NONE|
+#=#=#=# Syncrun finished 2018-01-12T17:20:13 (last step: 134 msec, total: 406 msec)
