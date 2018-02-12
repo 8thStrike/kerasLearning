@@ -1,6 +1,6 @@
 import psycopg2
 
-conn=psycopg2.connect("dbname=postgres user=reporting password=Crpn2014 host=localhost")
+conn=psycopg2.connect("dbname=postgres user=reporting password=Finance2018 host=172.16.0.81")
 cur=conn.cursor()
 
 
@@ -34,13 +34,26 @@ print("\nShow me the results:\n")
 for row in rows:
     print("  ",row[0],"  ", row[1])
 
-#conn.commit()
-
-
-
 
 
 cur.execute("SELECT * FROM num_niv_seniorite;")
+rows=cur.fetchall()
+print("\nShow me the results:\n")
+for row in rows:
+    print("  ",row[0],"  ", row[1])
+
+
+
+cur.execute("SELECT * FROM num_indice;")
+rows=cur.fetchall()
+print("\nShow me the results:\n")
+for row in rows:
+    print("  ",row[0],"  ", row[1])
+
+
+
+
+cur.execute("SELECT * FROM num_rtg;")
 rows=cur.fetchall()
 print("\nShow me the results:\n")
 for row in rows:

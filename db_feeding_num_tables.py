@@ -1,7 +1,7 @@
 import psycopg2
 import csv
 
-conn=psycopg2.connect("dbname=postgres user=reporting password=Crpn2014 host=localhost")
+conn=psycopg2.connect("dbname=postgres user=reporting password=Finance2018 host=172.16.0.81")
 
 
 
@@ -61,7 +61,28 @@ for row in data:
 #    print("nothing")
 
 
+#---------------------------------------------------------------------------Feed de la table num_niv_indice--------------------------------------------------------------------
+data = csv.reader(open('/home/edouard/Documents/projet/kera/data/Documents/Edouard/Travail/database/num_indice.csv'), delimiter=';')
+cur=conn.cursor()
 
+for row in data:
+    cur.execute("""INSERT INTO num_indice (id_indice, indice) VALUES (%s, %s);""", row)
+#    print("nothing")
+
+#---------------------------------------------------------------------------Feed de la table num_group--------------------------------------------------------------------
+data = csv.reader(open('/home/edouard/Documents/projet/kera/data/Documents/Edouard/Travail/database/num_group.csv', newline='', encoding='utf-8'), delimiter=';')
+cur=conn.cursor()
+
+for row in data:
+    cur.execute("""INSERT INTO num_group (id_group, group_name) VALUES (%s, %s);""", row)
+
+#---------------------------------------------------------------------------Feed de la table num_rtg--------------------------------------------------------------------
+data = csv.reader(open('/home/edouard/Documents/projet/kera/data/Documents/Edouard/Travail/database/num_rtg.csv', newline='', encoding='utf-8'), delimiter=';')
+cur=conn.cursor()
+
+for row in data:
+
+    cur.execute("""INSERT INTO num_rtg (id_rtg_CRPN, rtg) VALUES (%s, %s);""", row)
 
 
 

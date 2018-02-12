@@ -1,6 +1,6 @@
 import psycopg2
 
-conn=psycopg2.connect("dbname=postgres user=reporting password=Crpn2014 host=localhost")
+conn=psycopg2.connect("dbname=postgres user=reporting password=Finance2018 host=172.16.0.81")
 
 cur=conn.cursor()
 
@@ -37,18 +37,21 @@ cur.execute("""CREATE TABLE ref_oblig (id_sec INT PRIMARY KEY NOT NULL, id_niv_s
 cur.execute("""CREATE TABLE num_niv_seniorite (id_niv_seniorite SERIAL PRIMARY KEY, niv_seniorite VARCHAR(20)) TABLESPACE financier;""")
 cur.execute("""CREATE TABLE num_indice (id_indice INT NOT NULL, indice VARCHAR(40)) TABLESPACE financier;""")
 
+#Create table ref_coupon -----------------------------------------------------------------------------------------------------------------------------------------              9 tables Created
+cur.execute("""CREATE TABLE ref_coupon (id_sec INT PRIMARY KEY NOT NULL, cpn_nom DOUBLE PRECISION, cpn_freq DOUBLE PRECISION NOT NULL) TABLESPACE financier;""")
+
 #Create table Coupon -------------------------------------------------------------------------------------------------------------------------------------------------          13 tables created
-cur.execute("""CREATE TABLE coupon_daily (id_cpn SERIAL PRIMARY KEY, id_sec INT NOT NULL, date_vl DATE, cpn_nom DOUBLE PRECISION NOT NULL, cpn_freq DOUBLE PRECISION NOT NULL, cpn_couru DOUBLE PRECISION NOT NULL) TABLESPACE financier;""")
+cur.execute("""CREATE TABLE coupon_daily (id_sec INT NOT NULL, date_vl DATE,  cpn_couru DOUBLE PRECISION NOT NULL, PRIMARY KEY (id_sec, date_vl)) TABLESPACE financier;""")
 
 #Create table rtg -------------------------------------------------------------------------------------------------------------------------------------------------             14 tables Created
-cur.execute("""CREATE TABLE rtg (id_rtg SERIAL PRIMARY KEY,  id_sec INT NOT NULL, id_rtg_CRPN INT, date_last_changed DATE) TABLESPACE financier;""")
+cur.execute("""CREATE TABLE rtg (id_sec INT NOT NULL, id_rtg_CRPN INT, date_last_changed DATE, PRIMARY KEY (id_sec, date_last_changed)) TABLESPACE financier;""")
 cur.execute("""CREATE TABLE num_rtg (id_rtg_CRPN INT NOT NULL, rtg VARCHAR(20)) TABLESPACE financier;""")
 
 #Create table mouvements -------------------------------------------------------------------------------------------------------------------------------------------------      15 tables created
 cur.execute("""CREATE TABLE mouvements (id_mvt SERIAL PRIMARY KEY, id_sec INT NOT NULL, direction INT NOT NULL, quantity INT NOT NULL, price DOUBLE PRECISION, yield DOUBLE PRECISION, date_vl DATE) TABLESPACE financier;""")
 
 #Create table date de prochain call---------------------------------------------------------------------------------------------------------------------------------            16 tables created
-cur.execute("""CREATE TABLE call_dates (id_next_call SERIAL PRIMARY KEY, id_sec INT NOT NULL, maturity_next_call DATE, date_last_changed DATE) TABLESPACE financier;""")
+cur.execute("""CREATE TABLE call_dates (id_sec INT NOT NULL, next_call_date DATE, date_last_changed DATE, PRIMARY KEY (id_sec, date_last_changed)) TABLESPACE financier;""")
 
 #Create table date remboursement anticipé---------------------------------------------------------------------------------------------------------------------------------            17 tables created
 cur.execute("""CREATE TABLE remboursement_dates (id_rmbst SERIAL PRIMARY KEY, id_sec INT NOT NULL, remboursement_date DATE, date_last_changed DATE) TABLESPACE financier;""")
